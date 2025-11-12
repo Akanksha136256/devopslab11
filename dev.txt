@@ -1,0 +1,5 @@
+inital project setup
+add user login
+add buggy payment
+udpdate doumenation
+fix typo in footer
